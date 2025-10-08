@@ -49,6 +49,8 @@ cd introducao-python/cap02
 python
 ex02-1.py
 
+---
+
 ## 💬 Sobre o Livro
 📘 Introdução à Programação com Python — Nilo Ney Coutinho Menezes
 ISBN: 978-85-7522-469-0
