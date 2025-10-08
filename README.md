@@ -44,7 +44,7 @@ cap04/
 
 ## 🔧 Como Executar
 Clone o repositório e execute qualquer exercício:
-git clone https://github.com/Felipecg2k2/introducao-python-nilo-ney.git
+git clone https://github.com/Felipecg2k2/introducao-python.git
 cd introducao-python/cap02
 python
 ex02-1.py
