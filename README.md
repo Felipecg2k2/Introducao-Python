@@ -14,16 +14,16 @@ Repositório criado para armazenar os **exercícios e práticas** do livro *"Int
 Cada pasta corresponde a um **capítulo do livro**, contendo os exercícios numerados conforme a ordem apresentada.
 
 cap02/
-    ex02-1.py
-    ex02-2.py
-    ...
+*   ex02-1.py
+*   ex02-2.py
+*   ...
 
 cap03/
-    ex03-1.py
-    ...
+*   ex03-1.py
+*   ...
 
 cap04/
-    ...
+*   ...
 
 
 ---
