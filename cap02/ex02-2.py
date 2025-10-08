@@ -1,0 +1,4 @@
+"""
+Exercício feito a mão. 
+
+"""
