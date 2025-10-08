@@ -2,7 +2,7 @@
 
 # 🐍 Introdução à Programação com Python — Nilo Ney Coutinho Menezes
 
-![Python](https://img.shields.io/badge/python-3.12-blue.svg?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3.14-blue.svg?logo=python&logoColor=white)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/Felipecg2k2/Introducao-Python)
 
 
